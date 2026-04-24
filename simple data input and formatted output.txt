@@ -1,0 +1,10 @@
+simple data input and formatted output
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+print(f"Hello {name}, you are {age} years old.")
+
+ouput
+
+///Enter your name: sushmitha
+Enter your age: 19
+Hello sushmitha, you are 19 years old.///

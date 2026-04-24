@@ -1,0 +1,9 @@
+secret_number=7
+guess=int(input("guess the number between 1 and 10 ."))
+
+if guess == secret_number:
+ print( "correct! ")
+elif  guess<secret_number:
+ print(" too low !")
+else:
+ print (" too high !")

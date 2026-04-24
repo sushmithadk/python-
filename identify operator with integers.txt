@@ -1,0 +1,5 @@
+#identify operator with integers
+a=10
+b=10
+print("ais b:",a is b)
+print("a is not b" ,a is not b)

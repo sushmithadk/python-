@@ -1,0 +1,10 @@
+program:assigment operation
+x=10
+print("Intial value",x)
+
+x+=5#x=x+5
+print("After +=:",x)
+
+x=3#x=x-3
+print("after=:",x)
+
